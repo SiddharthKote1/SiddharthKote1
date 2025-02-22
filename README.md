@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kote</h1>
 <h3 align="center">I am currently doing android development</h3>
 
-- 🔭 I’m currently working on **An android Api project**
+- 🔭 I’m currently working on **Android projects **
 
-- 🌱 I’m currently learning **Android developement backend firebase**
+- 🌱 I’m currently learning **Android developement **
 
 - 👯 I’m looking to collaborate on **on Android projects**
 
