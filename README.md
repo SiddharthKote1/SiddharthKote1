@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kote</h1>
 <h3 align="center">I am currently doing android development</h3>
 
-- 🔭 I’m currently working on **Android projects **
+- 🔭 I’m currently working on **Weather api and adding a payment section in it **
 
 - 🌱 I’m currently learning **Android developement **
 
