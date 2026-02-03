@@ -5,7 +5,8 @@
     </td>
     <td width="55%">
       
-🚀 Building secure Android apps that protect users and scale with confidence.
+<h2 align="center">🚀 Android Developer</h2>
+
 
 👋 Hi, I'm Siddharth Kote  
 🚀 Android Developer passionate about building **secure, scalable, and high-performance** mobile applications.
