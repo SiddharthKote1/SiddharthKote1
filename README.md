@@ -1,20 +1,38 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Zva3doeGdldDZueThzdHE0Y3l5ejhkMmIyZ2JzODBqaWtqMGo0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="80%" />
-</p>
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Zva3doeGdldDZueThzdHE0Y3l5ejhkMmIyZ2JzODBqaWtqMGo0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="100%" />
+    </td>
+    <td width="55%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Android+Developer;Jetpack+Compose+Specialist;Building+Secure+Mobile+Apps" />
-</p>
+## 👋 Hi, I'm Siddharth Kote  
+
+🚀 **Android Developer** focused on building **modern, secure, and scalable** mobile applications.
+
+- 🧠 Kotlin & Jetpack Compose  
+- 🔐 Accessibility Services & App Blocking  
+- 🔄 Android + Spring Boot (REST APIs, JWT)  
+- 🧩 MVVM & Clean Architecture  
+
+💡 *I enjoy building apps that solve real-world problems and improve digital safety.*
+
+   </td>
+  </tr>
+</table>
+
+---
 
 # 💫 About Me
 
-## 👋 Hi, I'm Siddharth Kote  
-🚀 Android Developer focused on building **modern, secure, and scalable** mobile applications.
+I am an Android developer passionate about creating **secure, performance-driven, and user-centric applications**.  
+I enjoy working close to the system layer and building features that actually **protect users and families**.
+
+---
 
 ### 🔭 I'm currently working on
-- Android apps using **Kotlin & Jetpack Compose**
-- Feature-level app blocking using **Accessibility Services**
-- Android–Spring Boot integration with **REST APIs & JWT authentication**
+- Android applications using **Kotlin & Jetpack Compose**
+- Feature-level app blocking with **Accessibility Services**
+- Android–Spring Boot integration using **REST APIs & JWT authentication**
 
 ### 👯 I'm looking to collaborate on
 - Android projects (**Jetpack Compose / MVVM**)
@@ -42,19 +60,20 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-kote-6874a625b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-kote-6874a625b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthkote128@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
@@ -67,5 +86,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=SiddharthKote1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
