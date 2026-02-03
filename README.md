@@ -5,16 +5,13 @@
     </td>
     <td width="55%">
 
-## 👋 Hi, I'm Siddharth Kote  
+👋 Hi, I'm Siddharth Kote  
+🚀 Android Developer passionate about building **secure, scalable, and high-performance** mobile applications.
 
-🚀 **Android Developer** focused on building **modern, secure, and scalable** mobile applications.
-
-- 🧠 Kotlin & Jetpack Compose  
-- 🔐 Accessibility Services & App Blocking  
-- 🔄 Android + Spring Boot (REST APIs, JWT)  
-- 🧩 MVVM & Clean Architecture  
-
-💡 *I enjoy building apps that solve real-world problems and improve digital safety.*
+🧠 Crafting modern UIs with **Kotlin & Jetpack Compose**  
+🔐 Implementing **Accessibility-based app blocking** and digital safety features  
+🔄 Building full-stack solutions with **Android + Spring Boot** (REST APIs, JWT)  
+🧩 Designing maintainable systems using **MVVM & Clean Architecture**
 
    </td>
   </tr>
