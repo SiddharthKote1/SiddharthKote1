@@ -8,12 +8,14 @@
 <h2 align="center">🚀 Android Developer</h2>
 
 👋 Hi, I'm **Siddharth Kote**  
-An Android Developer focused on building **secure, scalable, and high-performance** mobile applications.
+I build **secure, scalable, and high-performance Android applications** with a strong focus on **digital safety** and real-world usability.
 
-🧠 Crafting modern UIs with **Kotlin & Jetpack Compose**  
-🔐 Developing **Accessibility-based app blocking** and digital safety features  
-🔄 Building full-stack solutions with **Android + Spring Boot** (REST APIs, JWT)  
-🧩 Writing maintainable, scalable code using **MVVM & Clean Architecture**
+📧 **Contact:** [siddharthkote128@gmail.com](mailto:siddharthkote128@gmail.com)
+
+🧠 Designing modern, reactive UIs using **Kotlin & Jetpack Compose**  
+🔐 Engineering **Accessibility-based app blocking** and parental-control features  
+🔄 Developing full-stack mobile solutions with **Android + Spring Boot** (REST APIs, JWT)  
+🧩 Architecting clean, maintainable codebases with **MVVM & Clean Architecture**
 
    </td>
   </tr>
@@ -23,38 +25,38 @@ An Android Developer focused on building **secure, scalable, and high-performanc
 
 ## 💫 About Me
 
-I’m an Android developer passionate about creating **secure, performance-driven, and user-centric applications**.  
-I enjoy working close to the **system layer** and building features that genuinely **protect users and families**.
+I’m an Android developer passionate about building **secure, performance-driven, and user-centric** applications.  
+I enjoy working close to the **system layer**, solving complex problems, and creating features that genuinely **protect users and families**.
 
 ---
 
 ## 🔭 Currently Working On
-- Android applications using **Kotlin & Jetpack Compose**
-- Feature-level app blocking with **Accessibility Services**
-- Android–Spring Boot integration using **REST APIs & JWT authentication**
+- Building modern Android apps using **Kotlin & Jetpack Compose**
+- Implementing **feature-level app blocking** with Accessibility Services
+- Integrating Android apps with **Spring Boot backends** using REST APIs & JWT authentication
 
 ## 👯 Open to Collaborate On
-- Android projects (**Jetpack Compose / MVVM**)
-- Apps involving **Accessibility Services** or **system-level features**
-- Full-stack mobile apps (**Android + Spring Boot**)
+- Android projects using **Jetpack Compose / MVVM**
+- Apps involving **Accessibility Services** or other **system-level features**
+- Full-stack mobile applications (**Android + Spring Boot**)
 
 ## 🤝 Looking for Help With
-- Advanced Jetpack Compose UI patterns
-- Improving app performance and architecture
-- Play Store optimization & production best practices
+- Advanced Jetpack Compose UI patterns and animations
+- Improving app performance, stability, and architecture
+- Play Store optimization, releases, and production best practices
 
 ## 🌱 Currently Learning
-- Clean Architecture for Android
-- Advanced Kotlin Coroutines & Flow
-- Scalable backend design with Spring Boot
+- **Clean Architecture** for scalable Android apps
+- Advanced **Kotlin Coroutines & Flow**
+- Designing scalable backends with **Spring Boot**
 
 ## 💬 Ask Me About
 - Android development (**Kotlin, Jetpack Compose, MVVM**)
-- Accessibility Services & app usage tracking
+- Accessibility Services, app usage tracking, and digital safety
 - Android + Spring Boot backend integration
 
 ## ⚡ Fun Fact
-I enjoy building apps that solve real-world problems and improve digital safety 🚀
+I love building apps that solve **real-world problems** and improve **digital safety** 🚀
 
 ---
 
