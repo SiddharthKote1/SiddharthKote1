@@ -4,14 +4,16 @@
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Zva3doeGdldDZueThzdHE0Y3l5ejhkMmIyZ2JzODBqaWtqMGo0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="100%" />
     </td>
     <td width="55%">
+      
+🚀 Building secure Android apps that protect users and scale with confidence.
 
 👋 Hi, I'm Siddharth Kote  
-🚀 Android Developer specializing in **modern UI, system-level features, and secure mobile architecture**.
+🚀 Android Developer passionate about building **secure, scalable, and high-performance** mobile applications.
 
-🧠 Kotlin & Jetpack Compose for clean, reactive UIs  
-🔐 Accessibility Services for app blocking and usage control  
-🔄 Android + Spring Boot integration using REST APIs & JWT  
-🧩 Scalable codebases with MVVM & Clean Architecture
+🧠 Crafting modern UIs with **Kotlin & Jetpack Compose**  
+🔐 Implementing **Accessibility-based app blocking** and digital safety features  
+🔄 Building full-stack solutions with **Android + Spring Boot** (REST APIs, JWT)  
+🧩 Designing maintainable systems using **MVVM & Clean Architecture**
 
 
    </td>
