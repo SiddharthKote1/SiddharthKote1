@@ -1,6 +1,5 @@
 <!-- 🔥 Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Siddharth%20Kote&fontSize=38&animation=fadeIn" />
-
+<img width="100%" src="https://media.tenor.com/bCNex.gif" />
 <table>
   <tr>
     <td width="45%" align="center">
