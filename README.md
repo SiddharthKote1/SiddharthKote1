@@ -1,7 +1,5 @@
 <!-- 🔥 Animated Header -->
 <img width="100%" src="https://media.tenor.com/bCNex.gif" />
-<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding-typing.gif" />
-
 
 <table>
   <tr>
@@ -38,8 +36,8 @@ I build **secure, scalable, and high-performance Android applications** with a s
 
 <img src="https://user-images.githubusercontent.com/74038190/216656981-1e7b8f47-1b71-4f68-8c1b-4b7b1a4e5d2f.gif" width="100%" />
 
-<!-- 👨‍💻 Coding GIF – Best Spot -->
-<img src="https://media.tenor.com/view/coding-typing-pc-laptop-power-gif-21599707.gif" width="100%" />
+<!-- 👨‍💻 Coding Animation (NOT at start) -->
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding-typing.gif" width="100%" />
 
 ## 💫 About Me
 
