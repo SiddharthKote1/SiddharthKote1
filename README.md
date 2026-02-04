@@ -58,7 +58,7 @@ An emergency safety application that allows users to:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,java,spring,firebase,mysql,git,github,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,spring,firebase,mysql,git,github,figma&theme=dark" />
 </p>
 
 **Android & Backend**
