@@ -123,9 +123,10 @@ I’m an Android developer who enjoys working close to the **Android system laye
 
 ## 🐍 Contribution Snake
 
-<img src="https://github.com/SiddharthKote1/SiddharthKote1/blob/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SiddharthKote1/SiddharthKote1/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:00E7FF&height=120&section=footer" />
 
