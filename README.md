@@ -36,9 +36,6 @@ I build **secure, scalable, and high-performance Android applications** with a s
 
 <img src="https://user-images.githubusercontent.com/74038190/216656981-1e7b8f47-1b71-4f68-8c1b-4b7b1a4e5d2f.gif" width="100%" />
 
-<!-- 👨‍💻 Coding Animation (NOT at start) -->
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding-typing.gif" width="100%" />
-
 ## 💫 About Me
 
 I’m an Android developer passionate about building **secure, performance-driven, and user-centric applications**.  
@@ -100,15 +97,5 @@ An emergency safety application that allows users to:
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-kote-6874a625b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthkote128@gmail.com)
-
----
-
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SiddharthKote1&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=SiddharthKote1&theme=dark&hide_border=false)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddharthKote1&theme=react-dark" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 
 
