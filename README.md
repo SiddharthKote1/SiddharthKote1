@@ -23,7 +23,7 @@ I build **secure, scalable, and high-performance Android applications** with a s
 </p>
 
 🧠 Designing modern, reactive UIs using **Kotlin & Jetpack Compose**  
-🔐 Engineering **Accessibility-based app blocking** and parental-control features  
+🔐 Engineering **Accessibility-based app & feature blocking**  
 🔄 Developing full-stack mobile solutions with **Android + Spring Boot** (REST APIs, JWT)  
 🧩 Architecting clean, maintainable codebases with **MVVM & Clean Architecture**
 
@@ -35,62 +35,82 @@ I build **secure, scalable, and high-performance Android applications** with a s
 
 ## 💫 About Me
 
-I’m an Android developer passionate about building **secure, performance-driven, and user-centric** applications.  
-I enjoy working close to the **Android system layer**, where I design solutions that balance **performance, security, and user experience**—especially for apps that **protect users and families**.
+I’m an Android developer passionate about building **secure, performance-driven, and user-centric applications**.  
+I enjoy working close to the **Android system layer**, designing solutions that balance **performance, security, and usability**—especially apps that **protect users and families**.
 
 ---
 
-## 🌟 Featured Project – Parental Control App
+## 🌟 Highlight Projects
 
-A real-world Android application designed to promote **digital safety for families**.
+### 👨‍👩‍👧 Parent–Child Control App
+A digital safety application with parent–child profiles, app time limits, permanent and feature-level blocking using Accessibility Services, website & keyword blocking, and Play Store deployment experience.Assisting in deployment of the app on playstore.
 
-- 👨‍👩‍👧 Parent–Child profile system  
-- ⏱️ App time limits & permanent app blocking  
-- 🔐 Accessibility-based feature blocking  
-- 🌐 Website & keyword blocking  
-- 🚀 Experience contributing to **Play Store deployment**
+### 🌾 AgroNear App
+A direct **buyer-to-seller agriculture marketplace** with a **Spring Boot backend**, enabling farmers and buyers to connect without intermediaries using **secure REST APIs and JWT authentication**.
 
-🛠️ **Tech Stack:** Kotlin, Jetpack Compose, Accessibility Services, DataStore, Spring Boot
+### 🚨 Women Safety App
+An emergency safety application that allows users to:
+- Send **instant SMS alerts**
+- Trigger **emergency calls** to trusted contacts during critical situations
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+- Kotlin, Java  
+- Jetpack Compose  
+- Spring Boot  
+
+**Android & Backend**  
+- Accessibility Services  
+- DataStore  
+- REST APIs, JWT Authentication  
+
+**Database & Tools**  
+- Firebase  
+- MySQL  
+- Git, GitHub  
+- Figma  
 
 ---
 
 ## 🔭 Currently Working On
-- Building modern Android apps using **Kotlin & Jetpack Compose**
-- Implementing **feature-level app blocking** with Accessibility Services
-- Integrating Android apps with **Spring Boot backends** using REST APIs & JWT authentication
-
-## 👯 Open to Collaborate On
-- Android projects using **Jetpack Compose / MVVM**
-- Apps involving **Accessibility Services** or other **system-level features**
-- Full-stack mobile applications (**Android + Spring Boot**)
-
-## 🤝 Looking for Help With
-- Advanced Jetpack Compose UI patterns and animations
-- Improving app performance, stability, and architecture
-- Play Store optimization, releases, and production best practices
-
-## 🌱 Currently Learning
-- **Clean Architecture** for scalable Android apps
-- Advanced **Kotlin Coroutines & Flow**
-- Designing scalable backends with **Spring Boot**
-
-## 💬 Ask Me About
-- Android development (**Kotlin, Jetpack Compose, MVVM**)
-- Accessibility Services, app usage tracking, and digital safety
-- Android + Spring Boot backend integration
-
-## ⚡ Fun Fact
-I love building apps that solve **real-world problems** and improve **digital safety** 🚀
+- Jetpack Compose–based Android applications  
+- Feature-level blocking using Accessibility Services  
+- **AgroNear** – direct buyer–seller platform with Spring Boot backend  
 
 ---
 
-## 🌐 Socials
+## 👯 Open to Collaborate On
+- Android projects using **Jetpack Compose / MVVM**  
+- Apps involving **Accessibility Services** or other **system-level Android features**  
+- Full-stack mobile applications (**Android + Spring Boot**)  
+
+---
+
+## 🤝 Looking for Help With
+- Advanced Jetpack Compose UI patterns & animations  
+- Improving app performance, stability, and architecture  
+- Play Store optimization, releases, and production best practices  
+
+---
+
+## 🌱 Currently Learning
+- Backend development with **Spring Boot**  
+- **Clean Architecture** principles  
+- **Kotlin Coroutines & Flow**  
+- Scalable backend systems  
+
+---
+
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-kote-6874a625b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthkote128@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Badges
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -102,7 +122,7 @@ I love building apps that solve **real-world problems** and improve **digital sa
 
 ---
 
-## 📈 Developer Activity
+## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SiddharthKote1&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=SiddharthKote1&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthKote1&theme=dark&hide_border=false&layout=compact)
@@ -110,6 +130,7 @@ I love building apps that solve **real-world problems** and improve **digital sa
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SiddharthKote1&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
