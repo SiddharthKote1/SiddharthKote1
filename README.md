@@ -1,5 +1,6 @@
 <!-- 🔥 Animated Header -->
 <img width="100%" src="https://media.tenor.com/bCNex.gif" />
+
 <table>
   <tr>
     <td width="45%" align="center">
@@ -15,6 +16,8 @@
 
 👋 Hi, I'm **Siddharth Kote**  
 I build **secure, scalable, and high-performance Android applications** with a strong focus on **digital safety** and real-world usability.
+
+💡 I specialize in Android apps that enforce **digital safety, screen control, and system-level restrictions** using **Accessibility Services**.
 
 📧 **Contact:** [siddharthkote128@gmail.com](mailto:siddharthkote128@gmail.com)
 
@@ -33,17 +36,20 @@ I build **secure, scalable, and high-performance Android applications** with a s
 
 <img src="https://user-images.githubusercontent.com/74038190/216656981-1e7b8f47-1b71-4f68-8c1b-4b7b1a4e5d2f.gif" width="100%" />
 
+<!-- 👨‍💻 Coding GIF – Best Spot -->
+<img src="https://media.tenor.com/view/coding-typing-pc-laptop-power-gif-21599707.gif" width="100%" />
+
 ## 💫 About Me
 
 I’m an Android developer passionate about building **secure, performance-driven, and user-centric applications**.  
-I enjoy working close to the **Android system layer**, designing solutions that balance **performance, security, and usability**—especially apps that **protect users and families**.
+I specialize in working close to the **Android system layer**, designing solutions that balance **performance, security, and usability**—especially apps that **protect users and families**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" />
 
 ## 🌟 Highlight Projects
 
 ### 👨‍👩‍👧 Parent–Child Control App
-A digital safety application with parent–child profiles, app time limits, permanent and feature-level blocking using Accessibility Services, website & keyword blocking, and Play Store deployment experience. Assisted in deployment on the Play Store.
+A digital safety Android application supporting **parent–child profiles**, **feature-level blocking across social media apps**, **app time limits**, **permanent blocking**, **website & keyword filtering**, and **Play Store deployment**, built using **Accessibility Services** and modern Android architecture.
 
 ### 🌾 AgroNear App
 A direct **buyer-to-seller agriculture marketplace** with a **Spring Boot backend**, enabling farmers and buyers to connect without intermediaries using **secure REST APIs and JWT authentication**.
