@@ -7,10 +7,20 @@
 
 <h2 align="center">🚀 Android Developer</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=420&lines=Jetpack+Compose+Specialist;Accessibility+Services+Expert;Building+Digital+Safety+Apps" />
+</p>
+
 👋 Hi, I'm **Siddharth Kote**  
 I build **secure, scalable, and high-performance Android applications** with a strong focus on **digital safety** and real-world usability.
 
 📧 **Contact:** [siddharthkote128@gmail.com](mailto:siddharthkote128@gmail.com)
+
+<p>
+  🟢 Jetpack Compose &nbsp;|&nbsp;
+  🔐 Digital Safety &nbsp;|&nbsp;
+  ⚙️ System-Level Android
+</p>
 
 🧠 Designing modern, reactive UIs using **Kotlin & Jetpack Compose**  
 🔐 Engineering **Accessibility-based app blocking** and parental-control features  
@@ -26,7 +36,21 @@ I build **secure, scalable, and high-performance Android applications** with a s
 ## 💫 About Me
 
 I’m an Android developer passionate about building **secure, performance-driven, and user-centric** applications.  
-I enjoy working close to the **system layer**, solving complex problems, and creating features that genuinely **protect users and families**.
+I enjoy working close to the **Android system layer**, where I design solutions that balance **performance, security, and user experience**—especially for apps that **protect users and families**.
+
+---
+
+## 🌟 Featured Project – Parental Control App
+
+A real-world Android application designed to promote **digital safety for families**.
+
+- 👨‍👩‍👧 Parent–Child profile system  
+- ⏱️ App time limits & permanent app blocking  
+- 🔐 Accessibility-based feature blocking  
+- 🌐 Website & keyword blocking  
+- 🚀 Experience contributing to **Play Store deployment**
+
+🛠️ **Tech Stack:** Kotlin, Jetpack Compose, Accessibility Services, DataStore, Spring Boot
 
 ---
 
@@ -78,7 +102,7 @@ I love building apps that solve **real-world problems** and improve **digital sa
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Developer Activity
 ![](https://github-readme-stats.vercel.app/api?username=SiddharthKote1&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=SiddharthKote1&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthKote1&theme=dark&hide_border=false&layout=compact)
@@ -86,5 +110,6 @@ I love building apps that solve **real-world problems** and improve **digital sa
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SiddharthKote1&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
