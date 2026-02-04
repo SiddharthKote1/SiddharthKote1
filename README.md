@@ -8,7 +8,7 @@
 <h2 align="center">🚀 Android Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=420&lines=Kotlin+&+Jetpack+Compose;Accessibility+Services;Spring+Boot+Backend" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=420&lines=Jetpack+Compose;Accessibility+Services;Spring+Boot+Backend" />
 </p>
 
 👋 Hi, I'm **Siddharth Kote**  
