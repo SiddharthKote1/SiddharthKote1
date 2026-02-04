@@ -17,9 +17,8 @@ I build **secure, scalable, and high-performance Android applications** with a s
 📧 **Contact:** [siddharthkote128@gmail.com](mailto:siddharthkote128@gmail.com)
 
 <p>
-  🟢 Jetpack Compose &nbsp;|&nbsp;
-  🔐 Digital Safety &nbsp;|&nbsp;
-  ⚙️ System-Level Android
+ 🟢 Kotlin & Jetpack Compose &nbsp;|&nbsp; 🧠 Accessibility Services Expert &nbsp;|&nbsp; ⚙️ Android + Spring Boot Backend
+
 </p>
 
 🧠 Designing modern, reactive UIs using **Kotlin & Jetpack Compose**  
