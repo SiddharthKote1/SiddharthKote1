@@ -1,5 +1,7 @@
 <!-- 🔥 Animated Header -->
 <img width="100%" src="https://media.tenor.com/bCNex.gif" />
+<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding-typing.gif" />
+
 
 <table>
   <tr>
